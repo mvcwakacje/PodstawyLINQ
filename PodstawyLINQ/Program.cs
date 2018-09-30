@@ -10,6 +10,7 @@ namespace PodstawyLINQ
     {
         static void Main(string[] args)
         {
+            coś zmieniam :)
         }
     }
 }
